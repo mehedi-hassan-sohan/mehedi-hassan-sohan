@@ -4,7 +4,7 @@
 
 Hello, My name is Mehedi Hassan  . I am a React JS Developer. I have a good knowledge of HTML, CSS, Bootstrap, Tailwind CSS,JavaScript,React.js.I have made many attractive SPA(Single page applications) using this thing. I also have a fairly good understanding of MongoDB, Express js, and Node js. I also know about various tools like Firebase authentication, GitHub, Netlify, DevTools, Vercel, etc.
 
-Skills: HTML / CSS / JS / REACT JS / Tailwind CSS / Bootstrap / Express JS / MongoDB / Firebase
+Skills: HTML / CSS / JS / REACT JS / Tailwind CSS / Bootstrap / Express JS / MongoDB / Firebase / NextJS / Redux 
 
 - 🌱 I’m currently learning Redux Nextjs Typescript  
 - 📫 How to reach me: DM Me in any social  Network  
